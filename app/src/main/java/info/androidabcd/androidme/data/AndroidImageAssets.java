@@ -1,10 +1,9 @@
 package info.androidabcd.androidme.data;
 
+import info.androidabcd.androidme.R;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import info.androidabcd.androidme.R;
 
 // Class for storing all the image drawable resources in ArrayLists
 public class AndroidImageAssets {

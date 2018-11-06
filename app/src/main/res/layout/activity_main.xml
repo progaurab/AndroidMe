@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Display the static master list fragment -->
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/master_list_fragment"
+    android:name="info.androidabcd.androidme.ui.MasterListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />

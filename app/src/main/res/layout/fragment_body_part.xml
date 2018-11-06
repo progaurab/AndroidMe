@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+
+<!-- This fragment layout displays just one image of an Android-Me body part -->
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/body_part_image_view"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:id="@+id/body_part_image_view">
+    android:layout_height="match_parent">
 
 </ImageView>
